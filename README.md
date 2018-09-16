@@ -3,7 +3,7 @@ Python implementation for Sparkfun GPS14414 - an i2c GPS module using the GTOP X
 
 Uses:
 smbus2
-A pupre python implementation to interact with i2c devices
+A pure python implementation to interact with i2c devices
 https://pypi.org/project/smbus2/
 pip install smbus2
 
